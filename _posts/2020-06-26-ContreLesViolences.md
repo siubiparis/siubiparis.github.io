@@ -4,14 +4,14 @@ title: Contre les violences sexuelles et sexistes
 subtitle: la peur doit changer de camp 
 ---
 
-Une marée d'accusations s'est levée contre les prédateurs, harceleurs et agresseurs sexuels et sexistes présents dans le jeu vidéo..
-Sans surprise, ces accusations touchent de nombreux.ses employé.es d'Ubisoft..
-Sans surprise, ces accusations touchent de nombreux studios d'Ubisoft..
+Une marée d'accusations s'est levée contre les prédateurs, harceleurs et agresseurs sexuels et sexistes présents dans le jeu vidéo.··
+Sans surprise, ces accusations touchent de nombreux.ses employé.es d'Ubisoft.··
+Sans surprise, ces accusations touchent de nombreux studios d'Ubisoft.··
 Sans surprise, ces accusations touchent tous les échelons hiérarchiques d'Ubisoft, du plus bas au plus élevés.
 
-Il ne s'agit pas seulement de quelques cas isolés, dont l'exclusion seule suffirait à résoudre le problème, mais d'une question systémique, qui semble tolérée de manière massive et de longue date..
-Nous demandons qu'Ubisoft prenne ses responsabilités et entreprenne des changements en profondeur, en identifiant toutes les personnes, les mécanismes et la culture qui a permis et protégé ses violences et en la changeant radicalement, plutôt que quelques licenciements, de la communication externe et du *damage control*..
-C'est un minimum, qui ne saura réparer les innombrables talents féminins que l'entreprise aura étouffé sous ces violences, mais qui, nous l'espérons, aidera à briser, au moins à Ubisoft, ce cercle vicieux qui a cours dans toute l'industrie.
+Il ne s'agit pas seulement de quelques cas isolés, dont l'exclusion seule suffirait à résoudre le problème, mais d'une question systémique, qui semble tolérée de manière massive et de longue date.··
+Nous demandons qu'Ubisoft prenne ses responsabilités et entreprenne des changements en profondeur, en identifiant toutes les personnes, les mécanismes et la culture qui a permis et protégé ses violences et en la changeant radicalement, plutôt que quelques licenciements, de la communication externe et du *damage control*.··
+C'est un minimum, qui ne saura réparer les innombrables talents féminins que l'entreprise aura étouffé sous ces violences, mais qui, nous l'espérons, aidera à briser, au moins à Ubisoft, ce cercle vicieux qui a cours dans toute l'industrie.··
 La section syndicale Solidaires Informatique Ubisoft Paris loue le courage de celles qui se sont exposées pour prendre la parole. Nous exprimons notre entier soutien à l'ensemble des victimes, et réaffirmons à nouveau notre capacité syndicale à l'accompagnement dans des démarches judiciaires.
 
 Ci-dessous, la [déclaration officielle de notre syndicat Solidaires Informatique](https://solidairesinformatique.org/2020/06/26/contre-les-violences-sexuelles-et-sexistes-la-peur-doit-changer-de-camp/).
