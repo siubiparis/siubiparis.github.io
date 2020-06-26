@@ -19,7 +19,7 @@ Ci-dessous, la [déclaration officielle de notre syndicat Solidaires Informatiqu
 
 
 ---
-
+![SexismeGameOver](../assets/img/sexisme-game-over.jpg)
 
 A l’heure où de nombreuses victimes brisent le silence sur le harcèlement et les agressions dans l’industrie du jeu vidéo, nous saluons leur immense courage de se dresser non seulement contre ces harceleurs, mais aussi contre le système qui les protège ceux-ci depuis des années ; nous leur adressons tout notre soutien, et nous réaffirmons notre détermination à lutter contre toutes les formes de violences masculines faites aux femmes.
 
@@ -50,4 +50,4 @@ We call on all the victims to contact us and join us, to break the silence and l
 
 Solidaires Informatique will continue to give its full support to victims of sexual and gender-based violence and will always be by their side to defend them.
 
-![SexismeGameOver](../assets/img/sexisme-game-over.jpg)
+
