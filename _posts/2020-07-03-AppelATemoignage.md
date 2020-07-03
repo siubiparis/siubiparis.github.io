@@ -18,4 +18,5 @@ Il n'est pas nécessaire d'être encore dans l'entreprise pour témoigner.
 Tou-tes ensembles  
 On contre-attaque
 
+
 ![SIUbiParis](../assets/img/AppelATemoignages-page001.png)
