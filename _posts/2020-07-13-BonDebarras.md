@@ -4,4 +4,4 @@ title: Hascoët, Cornet
 subtitle: Bon débarras
 ---
 
-![SIUbiParis](../assets/img/UbisoftParisAffichage_007.png)
+![SIUbiParis](../assets/img/UbisoftParis_Affichage007.png)
