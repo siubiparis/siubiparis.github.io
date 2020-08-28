@@ -4,4 +4,6 @@ title: Des augmentations au rabais et retardées
 subtitle: C'est non
 ---
 
-![SIUbiParis](../assets/img/UbisoftParis_Affichage011.png)
+Les augmentations au rabais et retardées, c'est non !
+
+![SIUbiParis](../assets/img/UbisoftParis_Affichage_011.png)
