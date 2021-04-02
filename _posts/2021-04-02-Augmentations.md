@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Des augmentations décentes
-subtitle: pour 2021
+title: Des augmentations
+subtitle: décentes
 ---
 
-Des augmentations décentes pour 2021
+Des augmentations décentes
 
 ![SIUbiParis](../assets/img/UbisoftParis_Affichage_021.png)
   
