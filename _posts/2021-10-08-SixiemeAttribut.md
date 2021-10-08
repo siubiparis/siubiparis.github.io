@@ -6,7 +6,7 @@ subtitle: la défaite comme exemple
 
 ## Ubisoft : la défaite comme exemple
 
-![SIUbiParis](../assets/img/UbisoftParis_Affichage_028.png)
+![SIUbiParis](../assets/img/UbisoftParis_Affichage_030.png)
 
 Pour lutter contre le harcèlement dans l'entreprise, le groupe Ubisoft veut mesurer davantage les compétences de ses salarié.es en ajoutant un sixième critère à l'actuel dispositif d'évaluations annuelles.
 Votre manager évaluera ainsi votre exemplarité (comme votre "aptitude à mettre en place un environnement de travail sûr et inclusif", à "favoriser un dialogue continu sur ces thèmes", ou encore votre empathie). 
