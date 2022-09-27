@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Friction créative", "problème de génération"
+title: Friction créative, problème de génération
 subtitle: Yves Guillemot et le harcèlement sexuel à Ubisoft
 ---
 
