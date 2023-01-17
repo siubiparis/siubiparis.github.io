@@ -35,7 +35,7 @@ Et parce que M. Guillemot et sa clique ne comprennent que le rapport de force, *
 
 
 
-![SIUbiParis](../assets/img/UbisoftParis_Affichage_039_EN.png)
+![SIUbiParis](../assets/img/UbisoftParis_Affichage_039 - EN.png)
 
 ### CALL FOR STRIKE: FRIDAY JANUARY 27 - AFTERNOON
 
