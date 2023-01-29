@@ -40,7 +40,7 @@ title-img: "/assets/img/logo_solidaires_informatique_SIUbiParis.png"
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "solidaires.ubiparis@laposte.net"
+  email: "ubisoftparis@solidairesinformatique.org"
   facebook: solidairesinformatique
   twitter: SolInfoJeuVideo
   rss: true
