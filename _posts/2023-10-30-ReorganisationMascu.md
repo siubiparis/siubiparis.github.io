@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Just Dance 2023
+title: Une réorganisation bien mascu
 ---
 
 ![SIUbiParis](../assets/img/UbisoftParis_Affichage_0431.png)
