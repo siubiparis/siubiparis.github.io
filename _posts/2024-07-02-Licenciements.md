@@ -5,7 +5,7 @@ subtitle: Ripostes syndicales !
 ---
 
 
-![SIUbiParis](../assets/img/UbisoftParis_Affichage_046.png)
+![SIUbiParis](../assets/img/UbisoftParis_Affichage_046.PNG)
 
 
 En **juin 2022**, Yves Guillemot annonçait un plan de réduction des effectifs, employant le terme *"d'attrition naturelle"*. Un plan porté fièrement devant les actionnaires : **un millier d'emplois détruits**, expliquant ces réductions d'effectifs essentiellement par des non renouvellements de postes.Cette logique financière impacte très négativement la réalité vécue au quotidien par les salariés d'Ubisoft.
