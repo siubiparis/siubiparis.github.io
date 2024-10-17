@@ -40,7 +40,7 @@ Avec l'union Solidaires, agissons tous·tes ensembles pour changer la société.
 
 L'adhésion se fait directement à Solidaires Informatique, si tu changes de studio ou si tu perds ton emploi, tu restes adhérent·e. Quand tu changes d'employeur, tu rejoins une section déjà existante, ou tu crées une nouvelle section avec un·e ou plusieurs collègues.
 
-Une question ? Un doute ? N'hésite pas et **écris nous** : solidaires.ubiparis@laposte.net
+Une question ? Un doute ? N'hésite pas et **écris nous** : ubisoftparis@solidairesinformatique.org
 
 Solidaires Informatique Ile de France organise chaque mois une réunion de ces sections, ouverte à tous·tes ses adhérent·es, dans les locaux de l'union départementale, au 31 rue de la Grange aux Belles, 75010 Paris.
 
