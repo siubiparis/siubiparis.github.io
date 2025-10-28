@@ -5,7 +5,7 @@ title: Solidarité avec Massive et RedLynx
 
 
 
-![SIUbiParis](../assets/img/UbisoftParis_Affichage_060.png)
+![SIUbiParis](../assets/img/UbisoftParis_Affichage_060.PNG)
 
 
 Le groupe Ubisoft a récemment décidé de lancer une "série de mises à jour stratégiques" aux studios de Massive et RedLynx, c'est à dire, de licencier plusieurs dizaines de collègues.
