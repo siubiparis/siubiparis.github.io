@@ -6,9 +6,9 @@ subtitle: arnaque collective et pressions individuelles
 
 
 
-![SIUbiParis](../assets/img/UbisoftParis_Affichage_063_001.png)
-![SIUbiParis](../assets/img/UbisoftParis_Affichage_063_002.png)
-![SIUbiParis](../assets/img/UbisoftParis_Affichage_063_003.png)
+![SIUbiParis](../assets/img/UbisoftParis_Affichage_063_001.PNG)
+![SIUbiParis](../assets/img/UbisoftParis_Affichage_063_002.PNG)
+![SIUbiParis](../assets/img/UbisoftParis_Affichage_063_003.PNG)
 
 
 Les évaluations annuelles sont le rituel annuel où les salarié-es sont noté-es, souvent arbitrairement, sur leurs performances au sein de l’entre prise. Elle est très souvent confondues avec l’entretien professionnel, ce qui fait que certains aspects de cet exercice posent problème vis à vis du respect des droits et de la dignité des salarié-es. 
