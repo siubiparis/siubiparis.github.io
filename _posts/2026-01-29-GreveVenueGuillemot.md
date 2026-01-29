@@ -6,7 +6,7 @@ subtitle: CONTRE LA VENUE DE GUILLEMOT
 
 
 
-![SIUbiParis](../assets/img/UbisoftParis_Affichage_065.png)
+![SIUbiParis](../assets/img/UbisoftParis_Affichage_065.PNG)
 
 
 Notre cher PDG a prévu de venir dans les locaux d'Ubisoft Paris le 3 février pour suivre l'avancement des projets. La semaine dernière, il annonçait vouloir dégrader une nouvelle fois les conditions de télétravail, sans argument ni raison valable.
