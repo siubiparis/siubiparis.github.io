@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DEBRAYONS LE 3 FEVRIER !
+title: DEBRAYONS LE 3 FEVRIER
 subtitle: CONTRE LA VENUE DE GUILLEMOT
 ---
 
