@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Appel à la grève - 6 Octobre
-subtitle: Soutien aux camarades milanais
+title: Un service RH inhumain et hypocrite
 ---
 
 
